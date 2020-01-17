@@ -1,0 +1,18 @@
+
+body{
+  /*text-align:center;*/
+  background-color: 	lightgrey;
+}
+h1{
+  color: blue;
+}
+
+img{
+  border-style:ridge;
+  border-color: red;
+  border-width: thick;
+}
+a{color:red;}
+hr {
+  border-top: 3px solid grey;
+}
